@@ -2,7 +2,7 @@
 
 <!-- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf -->
 
-# Project Title
+# Theta D365 BC Extension Translations
 
 This section should contain a brief summary of the repository
 
